@@ -21,6 +21,7 @@ public class Armstrongno {
             remainder = num % 10;
             result += Math.pow(remainder, n);
             num /= 10;
+
         }
         if (result == number) {
             System.out.println(number + " is an Armstrong number.");
