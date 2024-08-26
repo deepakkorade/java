@@ -2,7 +2,7 @@ package logicalprogram;
 
 public class palindromno {
     public static void main(String[] arg){
-        int r,sum=0,temp;    
+        int r,sum=0,temp;
   int n=454;
 
   temp=n;    
